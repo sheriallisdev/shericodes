@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 I'm a frontend developer from The Netherlands who enjoys working with the JAM Stack.
 
+- 🔭 I’m currently working on open source contributions
+- 🌱 I’m currently learning TypeScript
+
+
 ## 🔎 You can find me on
 
 - [LinkedIn](https://www.linkedin.com/in/sheriallis/) | [My Personal Portfolio](https://sheri.dev) | [Twitter](https://www.twitter.com/shericodes)
