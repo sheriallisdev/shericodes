@@ -19,8 +19,19 @@ Here are some ideas to get you started:
 
 I'm a frontend developer from The Netherlands who enjoys working with the JAM Stack.
 
+
 - 🔭 I’m currently working on open source contributions
 - 🌱 I’m currently learning TypeScript
+
+## Featured Projects
+
+<strong>Designo:</strong> Designo is a 7-page Jamstack site built using Gatsby.js and Sanity.io.<br />
+<a href="https://srdesigno.netlify.app/">Live Project</a> | <a href="https://github.com/shericodes/designo-gatsby-sanity">Code</a><br />
+<img src="https://user-images.githubusercontent.com/1948858/211288866-246f2272-26d3-46cf-8587-366ccd273e2c.png" width="800">
+
+<strong>Audiophile:</strong> An ecommerce site built with Next.js, GraphCMS, GraphQL, Formik and Headless UI.<br />
+<a href="https://audiophile-next.vercel.app/">Live Project</a> | <a href="https://github.com/shericodes/audiophile-next">Code</a><br />
+<img src="https://user-images.githubusercontent.com/1948858/211289161-dda89a8a-035f-4b42-8360-28eed671f66e.png" width="800">
 
 
 ## 🔎 You can find me on
